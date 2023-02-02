@@ -1,0 +1,17 @@
+{
+    "name": "com.viettel.string-extensions",
+    "version": "1.0.0",
+    "displayName": "String Extensions",
+    "description": "A small string extension library",
+    "unity": "2020.3",
+    "dependencies": {
+
+    }, 
+    "keywords": ["library", "utility", "strings"],
+    "author": 
+    {
+        "name": "Minh Le",
+        "email": "hocminh1998@gmail.com",
+        "url": "https://unity.com/"
+    }
+}
